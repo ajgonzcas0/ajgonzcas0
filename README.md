@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @ajgonzcas0
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, PHP, Javacscript and SQL.
-- 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I´m studying chemical engineering XD
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning Py and math.
 
 <!---
 ajgonzcas0/ajgonzcas0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
